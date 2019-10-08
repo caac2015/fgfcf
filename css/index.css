@@ -1,0 +1,36 @@
+p{
+	color: purple
+	margin: 10%;
+	border-color: blue: 
+	border-width: 2mpx solid black;
+}
+
+.navegador{
+	width: 100%;
+	height: 40px;
+	border: 
+	margin: 0 auto;
+
+}
+header{
+	background: #55D6AA;
+}
+head::after{
+
+}
+nav{
+	/*float :right;*/
+	float: right;
+}
+nav ul{
+	text-decoration: none;
+	margin: 0;
+	padding: 50px ;
+	list-style: none;
+}
+nav li{
+	display: inline-block;
+	margin-left: 500px
+	padding-top: 20px;
+	 
+}
